@@ -1,14 +1,10 @@
-## Welcome to my profile! (っ◔◡◔)っ ❤ 
+## Quick Info
+- Sophomore university student studying at University of Southern California for a degree in Computer Science
+- Head Admin and developer on [Zeddy Gaming](https://discord.gg/Qw7Ur2H)
+- I make configs for Zombie Escape maps
 
-## What do I do?
-- I am currently a university student studying for a degree in Computer Science
-- I am the current Head Admin on [Zeddy Gaming](https://discord.gg/Qw7Ur2H)
-- I also contribute to Zeddy Gaming with both plugins and map configs
-- I make stripper, entwatch, and boss hud configs for Zombie Escape
-
-## What am I learning and planning to do?
-- Currently learning C++ (at University), Golang (by myself)
-- Planning to put my skills into making a personal backend program/plugin for CS:GO servers.
+## What I am learning
+- Currently learning C++, Golang, and Sourcepawn
 
 ## 🌐Socials
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](htttps://discord.gg/ABp7J2m4xK) [![Twitch](https://img.shields.io/badge/Twitch-%239146FF.svg?logo=Twitch&logoColor=white)](https://twitch.tv/notkoen1224) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/notkoen1224) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/c/TheProKoen1207) 
