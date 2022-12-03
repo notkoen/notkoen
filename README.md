@@ -1,7 +1,7 @@
 # PrintToChatAll("Hello!")
 
 ```python
-import coffee
+import tea
 
 # i am a bit tired
 print("Hello! Give me some tea!")
@@ -19,7 +19,7 @@ print("Hello! Give me some tea!")
 
 ## Discord
 
-![My Discord](https://discord-readme-badge.vercel.app/api?id=<265281929295822849>)
+![My Discord](https://discord-readme-badge.vercel.app/api?id=265281929295822849)
 
 ## GitHub Stats
 
