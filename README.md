@@ -1,11 +1,10 @@
 # PrintToChatAll("Hello!")
 
-```python
-import tea
-
-# i am a bit tired
-print("Hello! Give me some tea!")
+```yaml
+languages: golang, python, C++, sourcepawn
 ```
+
+---
 
 ## Quick Info
 
@@ -19,7 +18,7 @@ print("Hello! Give me some tea!")
 
 ## Discord
 
-![My Discord](https://discord-readme-badge.vercel.app/api?id=265281929295822849)
+[![Discord Presence](https://lanyard.cnrad.dev/api/265281929295822849)](https://discord.com/users/265281929295822849)
 
 ## GitHub Stats
 
