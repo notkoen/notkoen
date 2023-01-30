@@ -10,7 +10,9 @@ languages: golang, python, C++, sourcepawn
 
 - Sophomore studying at University of Southern California for a degree in Computer Science & Intelligence and Cyber Operations
 - Head Admin and developer on [Zeddy Gaming](https://discord.gg/zeddysze)
-- I make configs for the Zombie Escape gamemode on Counter-Strike: Global Offensive
+- Developer on [GFL ZE](https://discord.gg/Bkfwg4q)
+- Map porter for Counter-Strike: Global Offensive
+- I make config files for CS:GO Zombie Escape game mode.
 
 ## Socials
 
