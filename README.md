@@ -18,6 +18,12 @@ languages: golang, python, C++, sourcepawn
 
 [![Twitch](https://img.shields.io/badge/Twitch-%239146FF.svg?logo=Twitch&logoColor=white)](https://twitch.tv/notkoen1224) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/notkoen1224) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://www.youtube.com/c/notkoen)
 
+## Contact Me
+
+- [Steam](https://steamcommunity.com/id/notkoen/)
+- Discord: **not koen #4977**
+- QQ: **2432543644**
+
 ## Discord
 
 [![Discord Presence](https://lanyard.cnrad.dev/api/265281929295822849)](https://discord.com/users/265281929295822849)
