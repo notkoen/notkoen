@@ -21,7 +21,7 @@ languages: golang, python, C++, sourcepawn
 ## Contact Me
 
 - [Steam](https://steamcommunity.com/id/notkoen/)
-- Discord: **not koen #4977**
+- Discord: **notkoen**
 - QQ: **2432543644**
 
 ## Discord
