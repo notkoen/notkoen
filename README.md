@@ -1,7 +1,7 @@
 # PrintToChatAll("Hello!")
 
 ```yaml
-languages: golang, python, C++, sourcepawn
+languages: golang, python, C++, sourcepawn, lua
 ```
 
 ---
@@ -34,8 +34,6 @@ languages: golang, python, C++, sourcepawn
 ![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=notkoen&theme=monokai&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
 
 ---
-
-[![Visit Count](https://visitcount.itsvg.in/api?id=notkoen&icon=2&color=8)](https://visitcount.itsvg.in)
 
 ## Donate
 
