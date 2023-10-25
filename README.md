@@ -8,9 +8,10 @@ languages: golang, python, C++, sourcepawn, lua
 
 ## Quick Info
 
-- Sophomore studying at University of Southern California (Majoring in Computer Science & Intelligence and Cyber Operations)
-- [Zeddy's Zombie Escape](https://discord.gg/zeddysze) head admin & developer
+- Junior studying at University of Southern California (Majoring in Computer Science & Intelligence and Cyber Operations)
+- Retired [Zeddy's Zombie Escape](https://discord.gg/zeddysze) head admin & developer
 - [GFL CS:GO Zombie Escape](https://discord.gg/Bkfwg4q) developer
+- [NiDE.gg](nide.gg) Server Manager
 - CS:GO, CS:S, and GMod map porter
 - I make config files for the Zombie Escape game mode.
 
