@@ -2,16 +2,15 @@
 
 ## A little something about me...
 
-- Studying at University of Southern California (Majoring in Computer Science & Intelligence and Cyber Operations)
-- Retired [Zeddy's Zombie Escape](https://discord.gg/zeddysze) head admin & developer
-- [GFL CS:GO Zombie Escape](https://discord.gg/Bkfwg4q) developer
+- Studying at the University of Southern California (Majoring in Computer Science & Intelligence and Cyber Operations)
 - [NiDE.gg](nide.gg) Server Manager
+- [GFL CS:GO Zombie Escape](https://discord.gg/Bkfwg4q) developer
+- Retired head admin & developer at Zeddy's Zombie Escape
 - CS:GO, CS:S, and GMod map porter
-- I make config files for the Zombie Escape game mode.
 
 ## Socials
 
-[![Twitch](https://img.shields.io/badge/Twitch-%239146FF.svg?logo=Twitch&logoColor=white)](https://twitch.tv/notkoen1224)  [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://www.youtube.com/c/notkoen)
+[![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://www.youtube.com/c/notkoen)
 
 ## Contact Me
 
