@@ -14,7 +14,7 @@
 
 ## Contact Me
 
-- [Steam]([https://steamcommunity.com/id/notkoen/](https://steamcommunity.com/profiles/76561198190108077))
+- [Steam](https://steamcommunity.com/profiles/76561198190108077)
 - Discord: **notkoen**
 - QQ: **2432543644**
 
