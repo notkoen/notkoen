@@ -27,11 +27,10 @@
 
 ### Stats:
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=notkoen&show_icons=true&theme=radical&locale=en" alt="notkoen" /></p>
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs?username=notkoen&show_icons=true&theme=radical&locale=en)
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=notkoen&show_icons=true&theme=radical&locale=en" alt="notkoen" /></p>
+![Stats](https://github-readme-stats.vercel.app/api?username=notkoen&show_icons=true&theme=radical&locale=en)
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=notkoen&" alt="notkoen" /></p>
+![Streak](https://github-readme-streak-stats.herokuapp.com/?user=notkoen&)
 
 [!['s WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=notkoen)](https://github.com/notkoen)
-
