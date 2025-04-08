@@ -1,5 +1,5 @@
 
-<h1 align="center">Hi 👋</h1>
+<h1 align="center">Hi 👋, I'm Aaron</h1>
 <h3 align="center">Aspiring CS and Cybersecurity Student at USC</h3>
 
 - Studying at the University of Southern California (Majoring in Computer Science & Intelligence and Cyber Operations)
