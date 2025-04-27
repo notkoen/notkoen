@@ -1,8 +1,8 @@
 
-<h1 align="center">Hi 👋</h1>
+<h1 align="center">Hello! 👋</h1>
 <h3 align="center">Aspiring CS and Cybersecurity Student</h3>
 
-- Studying n Computer Science & Intelligence and Cyber Operations
+- Studying in Computer Science & Intelligence and Cyber Operations
 - [NiDE.gg](https://nide.gg) server manager
 - [GFL CS2 Zombie Escape](https://discord.gg/gflze) developer
 - [Sunrust](https://discord.gg/sunrust) developer and superadmin
