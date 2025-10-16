@@ -1,0 +1,16 @@
+Resolution: 2560 x 1440 (native)
+Display Mode: Windowed (No Border)
+Aspect Ratio: Widescreen 16:9
+
+Model detail: Medium
+Texture detail: Very High
+Shader detail: Very High
+Water detail: Simple reflections
+Shadow detail: High
+Color Correction: Enabled
+Antialiasing mode: 4x MSAA
+Filtering mode: Anisotropic 16X
+Wait for vertical sync: Disabled
+Motion Blur: Disabled
+Multicore Rendering: Enabled
+High Dynamic Range: Full (if available)
