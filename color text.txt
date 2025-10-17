@@ -1,0 +1,30 @@
+// GFL Rainbow Tags
+// Use a text editor (like notepad++) to see the characters
+
+// To use this, paste the text and colors in console:
+// c_settag "abc"
+
+// ""      white
+// ""      green
+// ""      blue
+// ""      darkblue
+// ""      darkred
+// ""      gold
+// ""      grey
+// ""      lightgreen
+// ""      lightred
+// ""      lime
+// ""      orchid
+// "	"   yellow // yes, its a tab
+// ""      palered
+//  - New line (doesnt work in CS2)
+
+// SOME RANDOM SHIT I MADE
+
+French ⬛⬛⬛
+
+( ͡ ͡° ͜ ʖ ͡ ͡° )( ͡ ͡° ͜ ʖ ͡ ͡° )( ͡ ͡° ͜ ʖ ͡ ͡° )( ͡ ͡° ͜ ʖ ͡ ͡° )( ͡ ͡° ͜ ʖ ͡ ͡° )( ͡ ͡° ͜ ʖ ͡ ͡° )
+
+☺☺☺☺☺☺☺
+
+Cheered!!!
