@@ -1,0 +1,21 @@
+//log_flags "Client" +DoNotEcho
+log_flags "SndOperators" +DoNotEcho
+log_flags Shooting +DoNotEcho
+log_flags "CL CommandQueue" +DoNotEcho
+
+sv_cheats "1"
+mp_autokick "0"
+
+alias "gfl" "connect 74.91.124.21:27015"
+alias "n4a" "connect 46.174.53.69:27019"
+alias "mapea" "connect 87.98.228.196:27040"
+alias "pse" "connect pse.re:27015"
+
+alias "photo" "cl_drawhud 0;r_drawviewmodel 0;cl_hud_telemetry_frametime_show 0;cl_hud_telemetry_net_misdelivery_show 0;cl_hud_telemetry_ping_show 0"
+alias "nophoto" "cl_drawhud 1;r_drawviewmodel 1;cl_hud_telemetry_frametime_show 2;cl_hud_telemetry_net_misdelivery_show 2;cl_hud_telemetry_ping_show 2"
+
+alias "+hide" "+attack2;c_hide 0"
+alias "-hide" "-attack2;c_hide 250"
+
+alias "mic" "bind mouse4 +voicerecord"
+alias "nomic" "unbind mouse4"

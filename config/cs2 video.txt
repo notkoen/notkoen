@@ -1,0 +1,24 @@
+Display Mode: Fullscreen Windowed
+Aspect Ratio: Widescreen 16:9
+Resolution: 2560x1440
+Refresh Rate: 165 HZ
+Brightness: 100%
+
+Boos Player Contrast: Disabled
+
+V-Sync: Disabled
+NVIDIA G-Sync: Disabled
+NVIDIA Reflex Low Latency: Enabled + Boost
+Maximum FPS In Game: 400
+Maximum FPS In Menus: 200
+
+Multisampling Anti-Aliasing Mode: None
+Global Shadow Quality: Low
+Dynamic Shadows: All
+Model / Texture Detail: High
+Texture Filtering Mode: Anisotropic 16x
+Shader Detail: Low
+Particle Detail: Low
+Ambient Occlusion: Disabled
+High Dynamic Range: Quality
+FidelityFX Super Resolution: Disabled (Highest Quality)
