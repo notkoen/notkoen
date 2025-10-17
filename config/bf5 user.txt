@@ -1,0 +1,9 @@
+GameTime.MaxVariableFps 0
+PerfOverlay.DrawFps 1
+PerfOverlay.FpsDisplayOffsetX 0
+PerfOverlay.FpsDisplayScale 3
+WorldRender.LightTileCsPathEnable 0
+WorldRender.MotionBlurEnable 0
+WorldRender.MotionBlurMaxSampleCount 0
+WorldRender.MotionBlurQuality 0
+WorldRender.MotionBlurRadialBlurMax 0
