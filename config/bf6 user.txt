@@ -3,9 +3,9 @@ perfoverlay.drawgpu 0
 perfoverlay.drawpixelthroughput 0
 perfoverlay.drawsim 0
 perfoverlay.fpsdisplayformat 3
-perfoverlay.fpsdisplayoffsetx 
-perfoverlay.fpsdisplayoffsety 
+perfoverlay.fpsdisplayoffsetx 2365
+perfoverlay.fpsdisplayoffsety -50
 perfoverlay.fpsdisplayscale 3
 postprocess.dofmethod 0
-worldrender.lighttilecspathenable 0
 worldrender.motionblurenable 0
+worldrender.lighttilecspathenable 0
