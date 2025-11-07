@@ -7,5 +7,6 @@ perfoverlay.fpsdisplayoffsetx 2365
 perfoverlay.fpsdisplayoffsety -50
 perfoverlay.fpsdisplayscale 3
 postprocess.dofmethod 0
-worldrender.motionblurenable 0
-worldrender.lighttilecspathenable 0
+WorldRender.LightTileCsPathEnable 0
+WorldRender.MotionBlurEnable 0
+WorldRender.TransparencyShadowmapsEnable 0
