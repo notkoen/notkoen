@@ -164,6 +164,7 @@
     "SFUI_Map_ze_loom"                                              "Loom"
     "SFUI_Map_ze_lorem_ipsum_p"                                     "Lorem Ipsum"
     "SFUI_Map_ze_lotr_helms_deep_p"                                 "Helms Deep"
+    "SFUI_Map_ze_lotr_isengard"                                     "Isengard"
     "SFUI_Map_ze_lotr_minas_tiret_p"                                "Minas Tiret"
     "SFUI_Map_ze_lotr_minas_tirith_p"                               "Minas Tirith"
     "SFUI_Map_ze_lotr_mines_of_moria_p"                             "Mines of Moria"
