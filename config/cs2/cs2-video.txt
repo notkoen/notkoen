@@ -4,13 +4,17 @@ Resolution: 2560x1440
 Refresh Rate: 165 HZ
 Brightness: 100%
 
+// Alternative resolution
+Aspect Ratio: Widescreen 16:10
+Resolution: 2304x1440
+
 Boos Player Contrast: Disabled
 
 V-Sync: Disabled
 NVIDIA G-Sync: Disabled
-NVIDIA Reflex Low Latency: Enabled + Boost
-Maximum FPS In Game: 400
-Maximum FPS In Menus: 200
+NVIDIA Reflex Low Latency: Enabled
+Maximum FPS In Game: 0
+Maximum FPS In Menus: 0
 
 Multisampling Anti-Aliasing Mode: None
 Global Shadow Quality: Low
