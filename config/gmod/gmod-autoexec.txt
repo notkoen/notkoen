@@ -1,0 +1,184 @@
+// ____ _____ _   _ _____   _____
+// |  _ \_   _| \ | |  __ \ / ____|
+// | |_) || | |  \| | |  | | (___
+// |  _ < | | | . ` | |  | |\___ \
+// | |_) || |_| |\  | |__| |____) |
+// |____/_____|_| \_|_____/|_____/
+
+// Transparency Toggle Bind
+bind "\"                "transparency"
+alias "transparency"    "zs_transparencyradius 0; zs_transparencyradius3p 1; bind \ "transparency2""
+alias "transparency2"   "zs_transparencyradius 512;zs_transparencyradius3p 128; zs_showfriends 0; bind \ "transparency3""
+alias "transparency3"   "zs_transparencyradius 1024; zs_transparencyradius3p 256; zs_showfriends 0; bind \ "transparency4""
+alias "transparency4"   "zs_showfriends 1; bind \ "transparency""
+
+// Server Transparency Bind
+bind "backspace"        "incrementvar zs_server_transparencyradius 1 512 512"
+
+//==========================================================================
+// GMOD/CSS FPS Config by Mobile Task Force Leader Gunner, Iszaar, and koen
+//==========================================================================
+
+//  _   _ ______ _________          ______  _____  _  _______ _   _  _____
+// | \ | |  ____|__   __\ \        / / __ \|  __ \| |/ /_   _| \ | |/ ____|
+// |  \| | |__     | |   \ \  /\  / / |  | | |__) | ' /  | | |  \| | |  __
+// | . ` |  __|    | |    \ \/  \/ /| |  | |  _  /|  <   | | | . ` | | |_ |
+// | |\  | |____   | |     \  /\  / | |__| | | \ \| . \ _| |_| |\  | |__| |
+// |_| \_|______|  |_|      \/  \/   \____/|_|  \_\_|\_\_____|_| \_|\_____|
+
+cl_allowupload "1"
+cl_allowdownload "1"
+cl_cmdrate "101"
+cl_interp "0.1"
+cl_interp_ratio "2"
+cl_lagcompensation "1"
+cl_pred_optimize "2"
+cl_predict "1"
+cl_predictweapons "1"
+cl_resend "6"
+cl_smooth "1"
+cl_smoothtime "0.1"
+cl_timeout "60"
+cl_updaterate "101"
+net_chokeloop "1"
+net_maxfilesize "64"
+net_maxfragments "1260"
+net_maxpacketdrop "0"
+net_queued_packet_thread "1"
+net_splitpacket_maxrate "1048576"
+rate "1048576"
+
+//  __  __ _____  _____  _____
+// |  \/  |_   _|/ ____|/ ____|
+// | \  / | | | | (___ | |
+// | |\/| | | |  \___ \| |
+// | |  | |_| |_ ____) | |____
+// |_|  |_|_____|_____/ \_____|
+
+cl_showpos "1"
+cl_showfps "0"
+cl_yawspeed "210"
+jpeg_quality "100"
+sv_rollangle "0"
+
+
+//  _____  ______ _____  ______ ____  _____  __  __          _   _  _____ ______
+// |  __ \|  ____|  __ \|  ____/ __ \|  __ \|  \/  |   /\   | \ | |/ ____|  ____|
+// | |__) | |__  | |__) | |__ | |  | | |__) | \  / |  /  \  |  \| | |    | |__
+// |  ___/|  __| |  _  /|  __|| |  | |  _  /| |\/| | / /\ \ | . ` | |    |  __|
+// | |    | |____| | \ \| |   | |__| | | \ \| |  | |/ ____ \| |\  | |____| |____
+// |_|    |______|_|  \_\_|    \____/|_|  \_\_|  |_/_/    \_\_| \_|\_____|______|
+
+cl_threaded_bone_setup "1"
+cl_threaded_client_leaf_system "1"
+cl_detaildist "0"
+cl_detailfade "0"
+cl_drawmonitors "0"
+cl_ejectbrass "0"
+cl_new_impact_effects "0"
+cl_show_splashes "0"
+fps_max "500"
+gmod_mcore_test "1"
+mat_alphacoverage "0"
+mat_antialias "1"
+mat_bumpmap "1"
+mat_colorcorrection "0"
+mat_colcorrection_disableentities "1"
+mat_disable_bloom "1"
+mat_forceaniso "16"
+mat_hdr_level "2"
+mat_mipmaptextures "1"
+mat_picmip "-1"
+mat_postprocess_x "1"
+mat_queue_mode "2"
+mat_software_aa_strength "0"
+mat_software_aa_strength_vgui "0"
+mat_softwarelighting "0"
+mat_specular "0"
+mat_trilinear "1"
+mp_decals "1024"
+muzzleflash_light "0"
+studio_queue_mode "1"
+r_ambientboost "1"
+r_drawflecks "0"
+r_dynamic "1"
+r_lod "-1"
+r_lightaverage "0"
+r_maxdlights "16"
+r_rimlight "1"
+r_shadowrendertotexture "1"
+r_threaded_client_shadow_manager "1"
+r_threaded_particles "1"
+r_threaded_renderables "1"
+r_queued_ropes "1"
+r_rootlod "1"
+r_sse2 "1"
+r_waterforceexpensive "0"
+r_waterforcereflectentities "1"
+violence_ablood "0"
+violence_agibs "0"
+violence_hblood "0"
+violence_hgibs "0"
+
+// __      ______ _____ _____ ______
+// \ \    / / __ \_   _/ ____|  ____|
+//  \ \  / / |  | || || |    | |__
+//   \ \/ /| |  | || || |    |  __|
+//    \  / | |__| || || |____| |____
+//     \/   \____/_____\_____|______|
+
+voice_overdrive "2"
+voice_maxgain "10"
+voice_scale "1"
+
+//   _____ _    _ _   _ _____  _    _  _____ _______
+//  / ____| |  | | \ | |  __ \| |  | |/ ____|__   __|
+// | (___ | |  | |  \| | |__) | |  | | (___    | |
+//  \___ \| |  | | . ` |  _  /| |  | |\___ \   | |
+//  ____) | |__| | |\  | | \ \| |__| |____) |  | |
+// |_____/ \____/|_| \_|_|  \_\\____/|_____/   |_|
+
+// YOU NEED TO EITHER EDIT YOUR CLIENT.VDF IN THE CFG FOLDER
+// OR EXEC AUTOEXEC WHEN YOU'RE ON SR
+// THESE DONT TAKE EFFECT UNTIL YOURE IN THE SERVER
+
+// Transparency
+zs_transparencyradius "512"
+zs_transparencyradius3p "16"
+zs_server_transparencyradius "1" // DO NOT SET THIS TO 0 - BREAKS RENDERING
+
+// Gameplay
+zs_noheavyviewpunch "0"
+zs_buymissingscrap "1"
+zs_nochargeattack "1"
+zs_particleamount "0.000000"
+zs_particledistance "0"
+zs_particlefilterid "3.000000"
+zs_sckworldradius "0"
+
+// Cosmetics
+spark_cosmetics "0" // Set to 1 if you want, otherwise keep at 0 for max performance
+spark_cosmetics_drawdist "2048"
+spark_cosmetics_filter "me steam_friend" // zs_friend = hearted people, me = yourself, steam_friend = steam friends
+
+// Effects
+zs_drawpainflash "0"
+zs_fonteffects "0"
+zs_fontuppercase "1"
+zs_simplefields "1"
+zs_showfriends "1" // Comment this if using bind to change
+zs_showpropholder "1"
+
+// Other Visual Effects
+zs_ragdollfade "1"
+zs_ragdollfadetime "0"
+zs_ragdollfadebosses "1"
+zs_ragdollfadeheadcrabs "1"
+zs_ragdollfademin "0"
+zs_ragdollfadedist "0"
+zs_hideotherhealingtracers "1"
+
+// Scopes
+zs_disablescopes "1" // Set to 0 if you want to use scopes
+zs_noironsights "1"
+zs_ironsightzoom "0.5" // Adjust to your own liking, 0.5 was my sweet spot

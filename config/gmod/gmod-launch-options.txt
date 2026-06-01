@@ -1,0 +1,1 @@
+-novid -nojoy -nosteamcontroller -particles 1 -precachefontchars -no_texture_stream -noborder -windowed -w 2560 -h 1440 +mat_dxlevel 95 +exec autoexec.cfg
